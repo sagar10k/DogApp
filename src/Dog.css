@@ -1,0 +1,16 @@
+.Dog img{
+  height: 300px;
+  width: 300px;
+  box-shadow: 3px 7px 15px black;
+}
+
+.Dog button{
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 10px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}

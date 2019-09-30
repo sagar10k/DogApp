@@ -1,0 +1,31 @@
+.Navbar-li{
+  display:inline-block;
+  text-decoration: none;
+  color: black;
+  margin: 10px;
+}
+
+.Navbar-active-link {
+  color: white;
+  /* background-color: black; */
+  /* opacity: 0.7; */
+  /* height: 4000%; */
+  /* width: 100%; */
+  text-align: center;
+  border-bottom: 1px solid white;
+}
+
+li{
+  list-style:none;
+  display: inline-block;
+  color: white;
+  margin: 20px;
+}
+ul{
+  text-align: end;
+}
+nav{
+  background-color: teal;
+  margin-top: -16px;
+  height: 60px;
+}
